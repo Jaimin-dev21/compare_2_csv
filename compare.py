@@ -10,5 +10,3 @@ for _ in range(2):
         if row not in f2:
             fName.write(row)
     f1, f2 = f2, f1
-
-git commit -m "first commit"
