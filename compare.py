@@ -10,3 +10,11 @@ for _ in range(2):
         if row not in f2:
             fName.write(row)
     f1, f2 = f2, f1
+
+
+#HOW TO CREATE A PULL REQUEST
+#STEP 1: CREATE A NEW BRANCH
+#STEP2: Make your changes
+#STEP3: Push it back to your repo
+#STEP 4: Click the Compare & pull request button
+#STEP5 : Click Create pull request to open a new pull request
